@@ -4,7 +4,7 @@ This is a repo created by following the tutorial in the link below:
 
 => https://soshace.com/this-is-how-i-created-a-simple-app-using-react-routing
 
-There is a "live" version of it at codepen.io (done by the author):
+There is a "live" version of it at codepen.io (done by the author of that article, [Supun Kavinda](https://supunkavinda.blog)):
 
 => https://codesandbox.io/s/supun-kavinda-react-router-app-7c7kr
 
